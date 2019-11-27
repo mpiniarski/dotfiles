@@ -1,0 +1,14 @@
+choco install 7zip
+choco install autohotkey
+choco install cocolateygui
+choco install GoogleChrome
+choco install notepadplusplus
+choco install PowerShell
+choco install qbittorrent
+choco install qnapi
+choco install spotify
+choco install steam
+choco install sumatrapdf
+choco install sysinternals
+choco install teamviewer
+choco install wireshark
