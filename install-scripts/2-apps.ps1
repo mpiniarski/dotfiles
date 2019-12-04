@@ -1,6 +1,6 @@
 choco install 7zip
 choco install autohotkey
-choco install cocolateygui
+choco install chocolateygui
 choco install GoogleChrome
 choco install notepadplusplus
 choco install PowerShell
@@ -12,3 +12,5 @@ choco install sumatrapdf
 choco install sysinternals
 choco install teamviewer
 choco install wireshark
+choco install slack
+choco install git
