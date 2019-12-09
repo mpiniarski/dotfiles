@@ -1,0 +1,8 @@
+pacman -S vim
+
+pacman -S docker
+pacman -S docker-compose
+systemctl enable docker
+systemctl start docker
+
+
