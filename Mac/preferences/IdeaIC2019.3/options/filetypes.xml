@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="ErrorPage,js" type="PLAIN_TEXT" />
+      <mapping pattern=".ember-cli" type="PLAIN_TEXT" />
+      <mapping pattern=".openapi-generator-ignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="vars" type="PLAIN_TEXT" />
+      <mapping pattern="fasdf" type="PLAIN_TEXT" />
+      <mapping ext="bck" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping pattern="singleCitation" type="XML" />
+      <removed_mapping pattern="*Template.kt" approved="true" type="HTML" />
+      <removed_mapping ext="mustache" approved="true" type="Kotlin" />
+    </extensionMap>
+  </component>
+</application>

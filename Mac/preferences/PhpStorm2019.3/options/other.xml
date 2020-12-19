@@ -1,0 +1,44 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="13.6.0" last-modified="1578931537161" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/13.6.0/bin/node">
+      <version-cache version="13.6.0" last-modified="1578931537161" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.14.1/bin/node">
+      <version-cache version="12.14.1" last-modified="1578403298000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.64547676" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.79116464" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="xde i&#10;xde&#10;python&#10;pyth&#10;pyt" />
+    <property name="KEYMAP" value="Git&#10;quick list&#10;generate" />
+    <property name="KEYMAP_IN_QUICK_LISTS" value="Fetch&#10;branch&#10;Push&#10;PUll" />
+    <property name="MarketplacePluginsSearchHistory" value="python&#10;go&#10;goland&#10;TypeScript&#10;tsŃ" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="Servers&#10;xdebug&#10;Services&#10;Docker&#10;xde" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" value="800" />
+    <property name="file.gist.reindex.count" value="13818" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ideavim.statistics.timestamp" value="1601028117417" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="false" />
+    <property name="lastTip" value="2" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.PHP" value="PHPDoc" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.7.2" />
+  </component>
+</application>

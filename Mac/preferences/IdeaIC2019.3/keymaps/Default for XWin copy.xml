@@ -1,0 +1,11 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="GotoLine" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="context_menu" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+</keymap>

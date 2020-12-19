@@ -1,0 +1,86 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Projects">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1VtK5nB3nAYki9MIkxsdMX9PpCw">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-193.5662.63" />
+              <option name="buildTimestamp" value="1576752314731" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1578066771981" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/nr1-workshop">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1XA6Y79fy2bJMdQm737l9y1xiXN">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-193.5662.63" />
+              <option name="buildTimestamp" value="1576752351321" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1580477456781" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/olxeu-pwa">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1WNh4kBUNGuMRPr06oBLge0puir">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-193.5662.63" />
+              <option name="buildTimestamp" value="1576752300894" />
+              <frame x="0" y="38" width="1680" height="1027" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1590387760688" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/graphql-for-frontend-engineers">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1fxFl4gr4s0HMbDn8P4C70nXxe3">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-193.5662.63" />
+              <option name="buildTimestamp" value="1576752357041" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1597151985188" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/terraform-olxeu-ssm-parameters">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1gaSYiSIbGycS6wU1T4OaBY2Wr8">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-193.5662.63" />
+              <option name="buildTimestamp" value="1576752335153" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1600689340334" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/olxeu-atlas-web-dist">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1VtK8VCr4HPFNVBVSmMXdxWgIud">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-193.5662.63" />
+              <option name="buildTimestamp" value="1576752335153" />
+              <frame x="0" y="23" width="1680" height="1027" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1600689340334" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/olxeu-atlas-web-dist" />
+        <option value="$USER_HOME$/Projects/terraform-olxeu-ssm-parameters" />
+        <option value="$USER_HOME$/Projects/graphql-for-frontend-engineers" />
+        <option value="$USER_HOME$/Projects/olxeu-pwa" />
+        <option value="$USER_HOME$/Projects/nr1-workshop" />
+        <option value="$USER_HOME$/Projects" />
+      </list>
+    </option>
+  </component>
+</application>

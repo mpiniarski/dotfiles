@@ -1,0 +1,18 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.junit.Assert.assertEquals(expected,actual)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+    </blacklists>
+    <disabledLanguages>
+      <language id="TypeScript" />
+      <language id="Angular2Html" />
+      <language id="JavaScript" />
+      <language id="Vue" />
+      <language id="PHP" />
+      <language id="SQL" />
+    </disabledLanguages>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<templateSet group="Mine">
+  <template name="aseq" value="assertEquals($EXPECTED$,$ACTUAL$);$END$" description="assertEquals" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="EXPECTED" expression="" defaultValue="&quot;expected&quot;" alwaysStopAt="true" />
+    <variable name="ACTUAL" expression="" defaultValue="&quot;actual&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

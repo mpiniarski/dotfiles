@@ -1,0 +1,41 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.3360.2100@192dpi" x="752" y="304" />
+    <size key="GridCell.Tab.0.left.0.0.3360.2100@192dpi" width="3276" height="460" />
+    <size key="GridCell.Tab.0.center.0.0.3360.2100@192dpi" width="3276" height="460" />
+    <size key="GridCell.Tab.0.right.0.0.3360.2100@192dpi" width="3276" height="460" />
+    <size key="GridCell.Tab.0.bottom.0.0.3360.2100@192dpi" width="3276" height="460" />
+    <size key="find.popup.0.0.3360.2100@192dpi" width="1992" height="1650" />
+    <size key="GridCell.Tab.1.left.0.0.3360.2100@192dpi" width="3276" height="690" />
+    <size key="GridCell.Tab.1.center.0.0.3360.2100@192dpi" width="3276" height="690" />
+    <size key="GridCell.Tab.1.right.0.0.3360.2100@192dpi" width="3276" height="690" />
+    <size key="GridCell.Tab.1.bottom.0.0.3360.2100@192dpi" width="3276" height="690" />
+  </component>
+  <component name="WindowManager">
+    <frame x="5" y="81" width="1681" height="1028" extendedState="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state width="300" height="400" key="Vcs.CompareWithSelectedRevision.Popup" timestamp="1591299468503">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="300" height="400" key="Vcs.CompareWithSelectedRevision.Popup/0.23.1680.1027" timestamp="1591299468503" />
+    <state x="839" y="453" key="WELCOME_SCREEN" timestamp="1599160066925">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="839" y="453" key="WELCOME_SCREEN/0.23.1680.1027" timestamp="1599160066925" />
+  </component>
+</application>

@@ -1,0 +1,1036 @@
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/cognito/CognitoLoginEnabled.php" line="23" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-advertising/src/dfpabtest/definedtest/ConfiguredAwsSettingsTest.php" line="22" />
+    <bookmark url="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" line="1329" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" line="1489" />
+    <bookmark url="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" line="1481" mnemonic="3" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/account/tokens/domain/CookieStorage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="26" column="47" lean-forward="true" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/common/domain/service/ConfigurationServiceInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/ChangePassword.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="131" column="46" selection-start-line="131" selection-start-column="46" selection-end-line="131" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/cognito/service/ChangePasswordService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-375">
+              <caret line="68" column="54" selection-start-line="68" selection-start-column="54" selection-end-line="68" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/cognito/ports/SessionManager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/SessionService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/cognito/ports/CurrentlyLoggedUser.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/LoggedUserProxy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/Logged.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="519" column="27" selection-start-line="519" selection-start-column="27" selection-end-line="519" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Myaccount.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="3277" column="42" selection-start-line="3277" selection-start-column="42" selection-end-line="3277" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CognitoLoginEnabled</find>
+      <find>myaccount/'</find>
+      <find>MyAcc</find>
+      <find>MyAccount</find>
+      <find>menu</find>
+      <find>handle</find>
+      <find>myaccount</find>
+      <find>redirectTo</find>
+      <find>'myaccount'</find>
+      <find>handleIndex</find>
+      <find>@Path /api/v1/users</find>
+      <find>RateLimit</find>
+      <find>login-ratelimit</find>
+      <find>launchdarkly</find>
+      <find>Registration</find>
+      <find>login-ratelimit-'</find>
+      <find>logout</find>
+      <find>login</find>
+      <find>&quot;use_tokens_for_login&quot;</find>
+      <find>use_tokens_for_login</find>
+      <find>token</find>
+      <find>use_toke</find>
+      <find>use_tokens</find>
+      <find>Logout</find>
+      <find>handleLog</find>
+      <find>ClearLoginCookies</find>
+      <find>SessionDomain&quot;:</find>
+      <find>changePass</find>
+      <find>changepassword</find>
+      <find>SessionDomain&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>searches</replace>
+      <replace>resetpassword</replace>
+      <replace>reset-password</replace>
+      <replace>Android</replace>
+      <replace>Ios</replace>
+      <replace>desktop</replace>
+      <replace>'$1',</replace>
+      <replace>Desktop</replace>
+      <replace>var</replace>
+      <replace>_</replace>
+      <replace>class</replace>
+      <replace>resend-code-blocked-modal</replace>
+      <replace>,</replace>
+      <replace>#313131</replace>
+      <replace>100</replace>
+      <replace>write(</replace>
+      <replace>f.write(</replace>
+      <replace>registration</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/views</dir>
+      <dir>$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/sass</dir>
+      <dir>$PROJECT_DIR$/plugins</dir>
+      <dir>$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/views/account/force-login-posting</dir>
+      <dir>$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/views/account</dir>
+      <dir>$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-automated-tests/cypress/integration</dir>
+      <dir>$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-automated-tests/cypress</dir>
+      <dir>$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js</dir>
+      <dir>$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions</dir>
+      <dir>$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/console</dir>
+      <dir>$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/api/oauth/controller</dir>
+      <dir>$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web</dir>
+      <dir>$PROJECT_DIR$/resources/config/site/olxbg</dir>
+      <dir>$PROJECT_DIR$/resources/config/site</dir>
+      <dir>$PROJECT_DIR$/resources/config/site/olxpl</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-olxbg/static/sass/style.scss" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-olxpl/lang/pl/translation.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/views/account/forgotpasswordconfirm.tt.html" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/lang/oz/translation.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/lang/bg/translation.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/lang/en/translation.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/lang/kk/translation.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/lang/pt/translation.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/lang/ro/translation.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/lang/ru/translation.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/lang/uk/translation.php" />
+        <option value="$PROJECT_DIR$/.devtools/import-translations.py" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/lang/pl/translation.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/views/account/forgotpasswordconfirm-resend_code_blocked_modal.tt.html" />
+        <option value="$PROJECT_DIR$/test" />
+        <option value="$PROJECT_DIR$/test2" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/actions/account.js" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/sass/components/_components.resend-code-blocked-modal.scss" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/ap/user/Logged.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/service/RegisterUserService.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/i2/ajax/Adding.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/UsernameObfuscator.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/tests/lib/user/UsernameObfuscatorTest.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-api-tests/tests/Mobile/Account/ForgotPasswordTest.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/ForgotPassword.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/cognito/service/ForgotPasswordService.php" />
+        <option value="$PROJECT_DIR$/_tools/config-generation/generate-config.py" />
+        <option value="$PROJECT_DIR$/hash_secret.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/AuthorizationEventFeedback.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/cognito/CognitoLogin.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/cognito/CognitoIdentityProvider.php" />
+        <option value="$PROJECT_DIR$/resources/config/site/default.json" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/console/CommsPushFeedbackConsumer.php" />
+        <option value="$PROJECT_DIR$/resources/olxkz/crontab/prod/crontab.aws" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/resources/user/services.php" />
+        <option value="$PROJECT_DIR$/resources/config/site/sqs.json" />
+        <option value="$PROJECT_DIR$/web/index.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/module/Module.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/console/RemoveEmailConsumer.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/tests/lib/user/DetachEmailConsumerTest.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/api/oauth/authentication/AuthenticationEndpoint.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/api/oauth/grant_type/PasswordGrantType.php" />
+        <option value="$PROJECT_DIR$/resources/config/site/olxpl/dev/modules.json" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/Registration.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/Logged.php" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/account/tokens/ClearLoginCookies.php" />
+        <option value="$PROJECT_DIR$/resources/config/site/olxbg/dev/modules.json" />
+        <option value="$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/account/tokens/domain/CookieStorage.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="0" y="23" width="1680" height="1027" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="tokens" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+              <item name="tokens" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+              <item name="ap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="cognito" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="cognito" type="462c0819:PsiDirectoryNode" />
+              <item name="ports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="cognito" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+              <item name="account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-regional" type="462c0819:PsiDirectoryNode" />
+              <item name="olxeu-atlas-web-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-shared" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-shared" type="462c0819:PsiDirectoryNode" />
+              <item name="atlas-web-framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-shared" type="462c0819:PsiDirectoryNode" />
+              <item name="atlas-web-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-shared" type="462c0819:PsiDirectoryNode" />
+              <item name="atlas-web-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="crons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-shared" type="462c0819:PsiDirectoryNode" />
+              <item name="atlas-web-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="crons" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-shared" type="462c0819:PsiDirectoryNode" />
+              <item name="atlas-web-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="crons" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+              <item name="execution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="olxeu-atlas-web-dist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="olxeu-atlas-web-dist" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="naspersclassifieds-shared" type="462c0819:PsiDirectoryNode" />
+              <item name="atlas-web-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="crons" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+              <item name="lifecycle" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local (3)" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-11" />
+      <TerminalTabState tabName="Local" commandHistoryFileName="history-4" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UsernameObfuscatorTest - 2020.06.03 at 15h 47m 51s.xml">
+      <configuration name="UsernameObfuscatorTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UsernameObfuscatorTest - 2020.06.03 at 15h 51m 27s.xml">
+      <configuration name="UsernameObfuscatorTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UsernameObfuscatorTest - 2020.06.03 at 15h 53m 08s.xml">
+      <configuration name="UsernameObfuscatorTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UsernameObfuscatorTest - 2020.06.03 at 15h 54m 13s.xml">
+      <configuration name="UsernameObfuscatorTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UsernameObfuscatorTest - 2020.06.03 at 15h 54m 36s.xml">
+      <configuration name="UsernameObfuscatorTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UsernameObfuscatorTest - 2020.06.03 at 15h 55m 22s.xml">
+      <configuration name="UsernameObfuscatorTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="UsernameObfuscatorTest - 2020.06.03 at 15h 55m 46s.xml">
+      <configuration name="UsernameObfuscatorTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ForgotPasswordTest_testInitiateForgotPasswordUserNotFoundResponse - 2020.06.04 at 08h 51m 20s.xml">
+      <configuration name="ForgotPasswordTest.testInitiateForgotPasswordUserNotFoundResponse" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ForgotPasswordTest_testInitiateForgotPasswordUserNotFoundResponse_(1) - 2020.06.04 at 09h 03m 28s.xml">
+      <configuration name="ForgotPasswordTest.testInitiateForgotPasswordUserNotFoundResponse (1)" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="RemoveEmailConsumerTest_shouldSaveCommentWhenRemoveIsCalledCorrectly - 2020.08.27 at 16h 43m 17s.xml">
+      <configuration name="RemoveEmailConsumerTest.shouldSaveCommentWhenRemoveIsCalledCorrectly" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="235440000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992126" visible="true" weight="0.2838828" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5007874" side_tool="true" weight="0.3028083" />
+      <window_info anchor="bottom" id="Duplicates" weight="0.32976446" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32976446" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32655245" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32976446" />
+      <window_info anchor="bottom" id="Services" order="7" weight="0.32976446" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32119915" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.64529914" visible="true" weight="0.23554604" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.35470086" side_tool="true" weight="0.45182014" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32976446" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24969475" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" x="0" y="0" width="370" height="827" id="Documentation" order="4" side_tool="true" weight="0.2960928" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992126" visible="true" weight="0.31501833" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5007874" side_tool="true" weight="0.3028083" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32976446" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.32762313" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Services" order="7" weight="0.32976446" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32976446" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.251606" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32976446" />
+      <window_info anchor="right" x="0" y="0" width="370" height="827" id="Documentation" order="0" side_tool="true" weight="0.2960928" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.24969475" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>$this-&gt;featureFlagService-&gt;isFeatureActive('use_tokens_for_login')</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$atlasFeatures-&gt;isFeatureActive(Module::COGNITO_USER_POOL)</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$settings-&gt;get(&quot;Cognito.client_id.desktop&quot;)</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$settings-&gt;get(&quot;Cognito.userpool.id&quot;)</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$this-&gt;sqsQueue</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$features-&gt;isFeatureActive(Module::PASSWORD_VALIDATION_STRONG)</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$features-&gt;isFeatureActive(Module::COGNITO_RESET_PASS_SCREEN_DESKTOP)</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>is_null($ads)</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>$searches === null</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-shared/atlas-web-framework/src/configuration/Settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/cognito/CognitoLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/cognito/LoginPlatformResolver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/cognito/CognitoLoginEnabled.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/naspersclassifieds-regional/olxeu-atlas-web/src/lib/module/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/config/site/olxpl/dev/cognito.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-olxpt/src/actions/Myaccount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="579" column="26" selection-start-line="579" selection-start-column="26" selection-end-line="579" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-shared/atlas-web-framework/src/lib/redis/RedisCloudWrapper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="428" column="30" selection-start-line="428" selection-start-column="30" selection-end-line="428" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/redis/AbstractRedisConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-shared/atlas-web-framework/src/lib/action/Action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/ChangeLanguage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-283" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/ChangeEmail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/UserValidator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/Validate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="126" column="35" lean-forward="true" selection-start-line="126" selection-start-column="35" selection-end-line="126" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/Docs.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/FeedTheDogAction.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/ForgotPassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-474">
+          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/service/RegisterUserService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="195" column="31" lean-forward="true" selection-start-line="195" selection-start-column="31" selection-end-line="195" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/Logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="78" column="31" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/config/site/olxpl/dev/modules.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/config/site/olxpl/modules.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11590">
+          <caret line="216" column="18" selection-start-line="216" selection-start-column="18" selection-end-line="216" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/config/site/olxbg/dev/modules.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9790">
+          <caret line="445" column="9" selection-start-line="445" selection-start-column="9" selection-end-line="445" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/config/site/olxbg/prod/modules.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/config/site/olxbg/modules.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="163" column="23" selection-start-line="163" selection-start-column="23" selection-end-line="163" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/Registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="127" column="32" selection-start-line="127" selection-start-column="32" selection-end-line="127" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/i2/ajax/Account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="183" column="20" selection-start-line="183" selection-start-column="20" selection-end-line="183" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="797" column="9" selection-start-line="797" selection-start-column="9" selection-end-line="797" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/superglobals/_superglobals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/AuthorizationEventFeedback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="73" column="52" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/cognito/IdentityProviderInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-shared/atlas-web-framework/src/crons/configuration/execution/Crontab.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/hermes/Executor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3146">
+          <caret line="193" column="27" selection-start-line="193" selection-start-column="27" selection-end-line="193" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-shared/atlas-web-framework/src/crons/configuration/lifecycle/FixedDuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/ap/moderation/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16566">
+          <caret line="811" column="14" selection-start-line="811" selection-start-column="14" selection-end-line="811" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/naspersclassifieds-hermes/api/src/Executors/UserTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/config/site/tracking.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9350">
+          <caret line="425" column="5" selection-start-line="425" selection-start-column="5" selection-end-line="425" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-shared/atlas-web-framework/src/crons/CronJobTask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/account/tokens/ClearLoginCookies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/cognito/CognitoIdentityProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="742" column="70" selection-start-line="742" selection-start-column="70" selection-end-line="742" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/ap/Changepassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="759" column="36" selection-start-line="759" selection-start-column="36" selection-end-line="759" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/ChangePassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="131" column="46" selection-start-line="131" selection-start-column="46" selection-end-line="131" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Myaccount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="3277" column="42" selection-start-line="3277" selection-start-column="42" selection-end-line="3277" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/cognito/ports/SessionManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/Logged.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="519" column="27" selection-start-line="519" selection-start-column="27" selection-end-line="519" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/LoggedUserProxy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/cognito/ports/CurrentlyLoggedUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/SessionService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/cognito/service/ChangePasswordService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="68" column="54" selection-start-line="68" selection-start-column="54" selection-end-line="68" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/account/tokens/domain/CookieStorage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="26" column="47" lean-forward="true" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/common/domain/service/ConfigurationServiceInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

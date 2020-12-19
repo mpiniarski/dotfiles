@@ -1,0 +1,1001 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="414">
+                <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2934">
+              <caret line="163" column="24" selection-start-line="163" selection-start-column="24" selection-end-line="163" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infrastructure/terraform/main.tf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openapi.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/domain/Language.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/domain/Site.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/domain/Username.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/driver/lambda/APIGatewayProxyRequestHandler.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#56#760#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/validation/validation.kt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TestFac</find>
+      <find>ssm</find>
+      <find>43</find>
+      <find>cognito.yml</find>
+      <find>logger.erro</find>
+      <find>File(</find>
+      <find>AWSSimpleSystemsManagementExceptio</find>
+      <find>ssm:Get</find>
+      <find>COMMIT_</find>
+      <find>newsletter</find>
+      <find>com.olx.eu.cognito.domain.message.generator.sign_up.OLXTemplate</find>
+      <find>inner</find>
+      <find>usernameIn</find>
+      <find>UsernameIn</find>
+      <find>st</find>
+      <find>stg</find>
+      <find>1_VPglCdty5</find>
+      <find>AtlasFa</find>
+      <find>- merge_requests</find>
+      <find>eu-west-1_HOBNBklTg</find>
+      <find>for_</find>
+      <find>aws_lambda</find>
+      <find>prd</find>
+      <find>aws_route53_zone</find>
+      <find>mock</find>
+      <find>Hmac</find>
+      <find>aws_apigatewayv2_domain_name</find>
+      <find>domain_valida</find>
+      <find>terraform</find>
+      <find>domain_</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>cognitoUserService</replace>
+      <replace>addUser</replace>
+      <replace>createUserRegistrationData</replace>
+      <replace>KProperty1&lt;T, R&gt;</replace>
+      <replace>ci</replace>
+      <replace>} catch (e: $1){</replace>
+      <replace>lambda_execution</replace>
+      <replace>\&quot;$2\&quot;: \&quot;$1\&quot;,</replace>
+      <replace>\\&quot;</replace>
+      <replace>countryCode</replace>
+      <replace>.[&quot;$1&quot;]</replace>
+      <replace>[&quot;$1&quot;]</replace>
+      <replace>newsletterAccepted</replace>
+      <replace>identity</replace>
+      <replace>confirmation</replace>
+      <replace>Site</replace>
+      <replace>site</replace>
+      <replace>camel</replace>
+      <replace>camelCase</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/test</dir>
+      <dir>$PROJECT_DIR$/tools</dir>
+      <dir>$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/domain</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/infrastructure/terraform/api_gateway.tf" />
+        <option value="$PROJECT_DIR$/infrastructure/terraform/output.tf" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/stg/cognito.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/prd/cognito.yml" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/driven/cognito/HMACEncoderTest.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/HMACEncoderTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/HMACEncoder.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/CognitoSecretHash.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/driven/cognito/CognitoSecretHash.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/driven/cognito/CognitoSecretHashTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/driven/cognito/HashSecret.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/driven/cognito/HashSecretTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/ports/driver/RegistrationService.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/ports/driven/ConfigProvider.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/driven/ssm/SSMConfigProvider.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/ports/driver/ConfirmationService.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/domain/confirmation/ConfirmationService.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/domain/creation.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/CognitoSiteConfigTest.java" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/inmemory/InMemoryConfigProvider.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/CognitoSiteConfigTest.kt" />
+        <option value="$PROJECT_DIR$/infrastructure/terraform/iam.tf" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/ports/driven/IdentityProvider.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/domain/confirmation/ConfirmationServiceTest.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/driven/cognito/AtlasFailureReasonTest.java" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/driven/cognito/AtlasFailureReasonTest.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/driven/cognito/CognitoIdentityProviderTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/driven/cognito/AtlasFailureReason.kt" />
+        <option value="$PROJECT_DIR$/documentation/communicationWithAtlas.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/tools/config-generation/generate-config.py" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/inmemory/InMemoryIdentityProvider.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/driven/cognito/CognitoIdentityProvider.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/driver/lambda/APIGatewayProxyRequestHandler.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/driver/lambda/APIGatewayProxyRequestHandlerTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/configuration.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/di.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/driver/lambda/ConfirmationLambda.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/driver/lambda/ConfirmationResendLambda.kt" />
+        <option value="$PROJECT_DIR$/infrastructure/terraform/lambda.tf" />
+        <option value="$PROJECT_DIR$/infrastructure/terraform/variables.tf" />
+        <option value="$PROJECT_DIR$/infrastructure/config/variables.tfvars.template" />
+        <option value="$PROJECT_DIR$/scripts/init_infra.sh" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/driver/lambda/RegistrationLambda.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/domain/register/RegistrationService.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/domain/register/RegistrationData.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/domain/register/RegistrationServiceTest.kt" />
+        <option value="$PROJECT_DIR$/.gitlab-ci.yml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/infrastructure/terraform/route53.tf" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="0" y="43" width="1680" height="1028" extendedState="6" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="infrastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="infrastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="infrastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="terraform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="olx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="olx" type="462c0819:PsiDirectoryNode" />
+              <item name="eu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="olx" type="462c0819:PsiDirectoryNode" />
+              <item name="eu" type="462c0819:PsiDirectoryNode" />
+              <item name="registration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="olx" type="462c0819:PsiDirectoryNode" />
+              <item name="eu" type="462c0819:PsiDirectoryNode" />
+              <item name="registration" type="462c0819:PsiDirectoryNode" />
+              <item name="adapters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="olx" type="462c0819:PsiDirectoryNode" />
+              <item name="eu" type="462c0819:PsiDirectoryNode" />
+              <item name="registration" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="olx" type="462c0819:PsiDirectoryNode" />
+              <item name="eu" type="462c0819:PsiDirectoryNode" />
+              <item name="registration" type="462c0819:PsiDirectoryNode" />
+              <item name="ports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="olx" type="462c0819:PsiDirectoryNode" />
+              <item name="validation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="olx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="olx" type="462c0819:PsiDirectoryNode" />
+              <item name="eu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="olx" type="462c0819:PsiDirectoryNode" />
+              <item name="eu" type="462c0819:PsiDirectoryNode" />
+              <item name="registration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="olx" type="462c0819:PsiDirectoryNode" />
+              <item name="eu" type="462c0819:PsiDirectoryNode" />
+              <item name="registration" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eu-registration-serverless" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="olx" type="462c0819:PsiDirectoryNode" />
+              <item name="eu" type="462c0819:PsiDirectoryNode" />
+              <item name="registration" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eu-registration-serverless" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-220" />
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-65" />
+    </option>
+    <option name="mySelectedTabIndex" value="1" />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AtlasFailureReasonTest_should_create_for_existing_value$eu_registration_serverless - 2020.07.09 at 11h 54m 25s.xml">
+      <configuration name="AtlasFailureReasonTest.should create for existing value$eu_registration_serverless" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AtlasFailureReasonTest_should_create_for_existing_value$eu_registration_serverless - 2020.07.09 at 11h 54m 29s.xml">
+      <configuration name="AtlasFailureReasonTest.should create for existing value$eu_registration_serverless" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AtlasFailureReasonTest_should_create_for_existing_value$eu_registration_serverless - 2020.07.09 at 11h 54m 49s.xml">
+      <configuration name="AtlasFailureReasonTest.should create for existing value$eu_registration_serverless" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AtlasFailureReasonTest_should_create_for_existing_value$eu_registration_serverless - 2020.07.09 at 11h 54m 52s.xml">
+      <configuration name="AtlasFailureReasonTest.should create for existing value$eu_registration_serverless" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AtlasFailureReasonTest_should_create_for_existing_value$eu_registration_serverless - 2020.07.09 at 11h 56m 40s.xml">
+      <configuration name="AtlasFailureReasonTest.should create for existing value$eu_registration_serverless" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AtlasFailureReasonTest_should_create_for_existing_value$eu_registration_serverless - 2020.07.09 at 11h 56m 47s.xml">
+      <configuration name="AtlasFailureReasonTest.should create for existing value$eu_registration_serverless" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_eu-registration-serverless_test - 2020.07.09 at 11h 57m 50s.xml">
+      <configuration name="All in eu-registration-serverless.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_eu-registration-serverless_test_(1) - 2020.07.09 at 12h 07m 08s.xml">
+      <configuration name="All in eu-registration-serverless.test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_eu-registration-serverless_test_(3) - 2020.08.10 at 12h 07m 54s.xml">
+      <configuration name="All in eu-registration-serverless.test (3)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_eu-registration-serverless_test_(1) - 2020.08.26 at 10h 39m 07s.xml">
+      <configuration name="All in eu-registration-serverless.test (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24542125" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32273838" />
+      <window_info id="Merge Request's Changes CE" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32976446" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27623126" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27730194" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32976446" />
+      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.15952891" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3340471" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32869378" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32976446" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32976446" />
+      <window_info anchor="bottom" id="Merge Request Integration CE" order="13" weight="0.32976446" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.1965812" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Ant" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="make" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3937729" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32273838" />
+      <window_info id="Merge Request's Changes CE" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32976446" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27623126" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27730194" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32976446" />
+      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.15952891" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32869378" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.32869378" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32976446" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32976446" />
+      <window_info anchor="bottom" id="Merge Request Integration CE" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.14590965" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Ant" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="make" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Regex(&quot;&quot;&quot;.*failed with error (.*)\..*&quot;&quot;&quot;).matchEntire(e.message!!)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Regex(&quot;&quot;&quot;.*failed with error (.*)&quot;&quot;&quot;).matchEntire(e.message!!)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Regex(&quot;&quot;&quot;.*failed with error (.*)\.&quot;&quot;&quot;).matchEntire(e.message!!)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>userPoolConfig.client</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>userPoolConfig.client.clientId</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Unit as T</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Unit</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>requestClass == Unit::class</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>requestClass</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/infrastructure/config/variables.tfvars.template">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognito.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/variables.tfvars">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/backend.tfvars">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/config/backend.tfvars.template">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/terraform/iam.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/terraform/remote_state.tf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/terraform/variables.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/terraform/lambda.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/serialization.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeStyle.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/apply_infra.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/init_infra.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/destroy_mr_infra.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/junit-platform.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.mockk/mockk/1.9.3/83247608f4897340fa8d29f234fda2afe9f4f162/mockk-1.9.3-sources.jar!/io/mockk/MockK.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/driver/lambda/APIGatewayProxyRequestHandlerTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+          <folding>
+            <element signature="e#56#647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/domain/register/Password.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/CognitoSiteConfigTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/driven/cognito/AtlasFailureReasonTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="e#57#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/adapters/driven/cognito/CognitoIdentityProviderTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="e#57#709#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/domain/register/RegistrationService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="e#49#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/domain/register/RegistrationData.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/com/olx/eu/registration/domain/register/RegistrationServiceTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tools/config-generation/generate-config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/ports/driven/IdentityProvider.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/driver/lambda/RegistrationLambda.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="36" column="52" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/configuration.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="e#42#545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/driven/cognito/HashSecret.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/driven/cognito/CognitoIdentityProvider.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <element signature="e#57#851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/driven/cognito/AtlasFailureReason.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/terraform/output.tf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/terraform/certificate.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/terraform/api_gateway.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/terraform/route53.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/domain/IdentityId.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.spectral.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="414">
+            <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2934">
+          <caret line="163" column="24" selection-start-line="163" selection-start-column="24" selection-end-line="163" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/terraform/main.tf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openapi.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/domain/Language.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/domain/Site.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/domain/Username.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/eu/registration/adapters/driver/lambda/APIGatewayProxyRequestHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#56#760#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/olx/validation/validation.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|eu-registration-serverless</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Python 3.7 (eu-registration-serverless)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.amazonaws:aws-java-sdk-cognitoidp:1.11.754</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

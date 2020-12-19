@@ -1,0 +1,215 @@
+ls
+xcode-select --install
+brew tap spotify/public
+brew install spotify
+brew cask install spotify
+brew cask install spectacle
+cd Projects/
+git clone https://git.naspersclassifieds.com/olxeu/ecosystem/eu-cognito-serverless.git
+cd eu-cognito-serverless/
+lsblk
+diskutil list
+mount
+sudo ls /Volumes/
+sudo mkdir /Volumes/Manjaro
+sudo mount /dev/disk4s4 /Volumes/Manjaro/
+sudo mount /dev/disk4s4 /Volumes/Manjaro/ -t
+sudo mount -t ext4 /dev/disk4s4 /Volumes/Manjaro/
+diskutil mount /dev/disk4s4
+diskutil mount /dev/disk4s4
+diskutil mount /dev/disk4s4
+diskutil mount /dev/disk4s4
+diskutil mount /dev/disk4s4
+diskutil mount /dev/disk4s4
+diskutil mount /dev/disk4s4
+diskutil mount /dev/disk4s4
+diskutil mount /dev/disk4s4
+diskutil mount readOnly /dev/disk4s4
+diskutil verifydisk disk4
+diskutil mount readOnly /dev/disk4s4
+diskutil mount readOnly /dev/disk4s1
+diskutil mount readOnly /dev/disk4s2
+brew cask install osxfuse
+brew install ext4fuse
+xcode-select --install
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install spotify
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install spotify
+ git -C "$(brew --repo homebrew/core)" fetch --unshallow
+sudo ext4fuse /dev/disk4s4 ~/tmp/MY_EXT_PARTITION -o allow_other
+sudo ext4fuse /dev/disk4s4 ~/tmp/MY_EXT_PARTITION -o allow_other
+finder 
+sudo ext4fuse /dev/disk4s4 ~/tmp/ext -o allow_other
+ls
+cd tmp/
+ls
+cd MY_EXT_PARTITION/
+ls
+cp home/marcin/
+cd home/marcin
+ls
+sudo cd home/marcin
+ls
+ls
+cd ..
+ls
+ext4fuse /dev/disk4s4 ~/tmp/ext2 -o allow_other
+cd ext/
+ls
+cd home/
+ls
+cd marcin
+ls
+cd marcinpiniarski/
+su
+sudo su
+ls
+gradle
+./gradlew build
+./gradlew build
+./gradlew build
+ls
+pwd
+mkdir Projects
+cd Projects/
+ls
+git
+git
+git clone git@git.naspersclassifieds.com:olxeu/ecosystem/olxeu-atlas-web-dist.git
+git clone https://git.naspersclassifieds.com/olxeu/ecosystem/olxeu-atlas-web-dist.git
+ls
+ls
+docker
+vim ~/.composer/auth.json
+vim ~/.composer/auth.json
+mkdir .composer
+vim ~/.composer/auth.json
+vim .composer/auth.json
+cd ~
+ls
+mkdir .composer
+vim .composer/auth.json
+sudo vim /etc/hosts
+docker login registry.naspersclassifieds.com
+docker login registry.naspersclassifieds.com
+cd Projects/olxeu-atlas-web-dist/
+ls
+make install
+make build
+make setup site=CODE
+make setup site=olxpl
+make start
+cd ..
+ls
+ls
+cd ..
+ls
+ls .ssh/
+ls .ssh1
+ls .ssh2
+ls .ssh
+ls .ssh/
+ls .ssh/
+rm known_hosts 
+ls
+rm id_ed25519
+sudo rm known_hosts 
+sudo rm id_ed25519
+sudo rm id_ed25519.pub 
+ls
+ls .ssh/
+vim .ssh/id_ed25519
+vim .ssh/id_ed25519.pub 
+vim .ssh/id_ed25519
+ls -l
+cd ssh
+cd .ssh
+ls
+ls -l
+sudo chown id_ed25519 marcin.piniarski
+sudo chown marcin.piniarski 
+sudo chown marcin.piniarski id_ed25519
+sudo chown marcin.piniarski id_ed25519.pub 
+ls -l
+vim id_ed25519
+cd ..
+ls
+cd Projects/
+ls
+https://github.com/mpiniarski/dotfiles.gi
+https://github.com/mpiniarski/dotfiles.git
+ls
+git clone https://github.com/mpiniarski/dotfiles.gi
+git clone https://github.com/mpiniarski/dotfiles.gi
+git clone https://github.com/mpiniarski/dotfiles.git
+cd dotfiles/
+ls
+cd Linux/
+ls
+cd install 
+ls
+cd ..
+ls
+cd config/
+ls
+cd ..
+ls
+cd Linux/
+ls
+ls -l
+ls -a
+ls
+cd
+ls
+ls -a
+pwd
+cd Applications/
+ls
+cd ..
+ls
+cd ..
+ls
+cd marcin.piniarski/
+ls
+brew cask install java
+brew cask install java11
+java8\
+java11
+java --version\
+java -v11
+/usr/libexec/java_home -v11
+Ń
+brew cask install java8
+brew tap homebrew/cask-versions
+brew cask install java
+brew cask install java8
+brew cask install java8
+brew update
+brew cask install java8
+brew tap caskroom/versions
+brew cask install java8
+java11
+java
+cd Projects/olxeu-atlas-web-dist/
+make start
+make stop
+make start
+cd Projects/olxeu-atlas-web-dist
+ls
+make stop
+ls
+cd tmp/ext/home/marcin
+sudo su
+ls
+make start
+ls
+cd
+vim .ideavimrc 
+vim .vimrc 
+vim .ideavimrc 
+cd Projects/olxeu-atlas-web-dist
+make start
+make stop
+make start
+ls

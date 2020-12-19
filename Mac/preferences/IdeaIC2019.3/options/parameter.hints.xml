@@ -1,0 +1,15 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.junit.Assert.assertEquals(expected,actual)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+    </blacklists>
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="kotlin" />
+      <language id="Groovy" />
+    </disabledLanguages>
+  </component>
+</application>

@@ -1,0 +1,5 @@
+<list display="Git">
+  <action id="Git.Pull" />
+  <action id="Vcs.Push" />
+  <action id="Git.Branches" />
+</list>

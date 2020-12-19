@@ -1,0 +1,369 @@
+<application>
+  <component name="VimLocalSettings">
+    <state version="5" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/ChangeEmail.php" timestamp="1600941462319">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/service/RegisterUserService.php" timestamp="1600942393865">
+        <mark key="[" line="196" column="23" />
+        <mark key="]" line="196" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/resources/config/site/olxpl/dev/modules.json" timestamp="1600945873638">
+        <mark key="'" line="23" column="26" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="65" column="10" />
+        <mark key="^" line="22" column="8" />
+        <mark key="." line="23" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web-olxpt/src/actions/Myaccount.php" timestamp="1600773759917">
+        <mark key="[" line="579" column="0" />
+        <mark key="]" line="579" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/resources/config/site/olxbg/prod/default.json" timestamp="1601028133572">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/account/tokens/domain/CookieStorage.php" timestamp="1600959993948">
+        <mark key="[" line="32" column="52" />
+        <mark key="]" line="32" column="52" />
+        <mark key="." line="32" column="52" />
+        <mark key="^" line="32" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/Registration.php" timestamp="1600942547872">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/account/tokens/ClearLoginCookies.php" timestamp="1600959437933">
+        <mark key="[" line="26" column="56" />
+        <mark key="]" line="26" column="75" />
+        <mark key="." line="26" column="56" />
+      </file>
+      <file name="/PHP Console" timestamp="1601016854772">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/Validate.php" timestamp="1600939515230">
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="234" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1600951031681">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/Logged.php" timestamp="1600949024015">
+        <mark key="[" line="545" column="0" />
+        <mark key="]" line="545" column="0" />
+        <mark key="." line="545" column="0" />
+      </file>
+      <file name="/fragment.php" timestamp="1600959432829">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/resources/config/site/olxpt/prod/modules.json" timestamp="1600945168871">
+        <mark key="[" line="111" column="9" />
+        <mark key="]" line="111" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/resources/config/site/olxbg/prod/modules.json" timestamp="1600945916778">
+        <mark key="[" line="29" column="9" />
+        <mark key="]" line="29" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/resources/config/site/olxpl/modules.json" timestamp="1600945494718" />
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" timestamp="1601020490860">
+        <mark key="'" line="652" column="0" />
+        <mark key="[" line="1550" column="40" />
+        <mark key="]" line="1550" column="44" />
+        <mark key="." line="1550" column="44" />
+        <mark key="^" line="1550" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Myaccount.php" timestamp="1600773805516" />
+      <file name="$USER_HOME$/Projects/olxeu-atlas-web-dist/resources/config/site/olxbg/dev/modules.json" timestamp="1600946938517">
+        <mark key="'" line="445" column="9" />
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="446" column="30" />
+        <mark key="." line="446" column="30" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="327" column="26" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/validators.js" />
+      <jump line="328" column="26" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/validators.js" />
+      <jump line="332" column="52" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/validators.js" />
+      <jump line="25" column="4" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/vas/plugins/jquery-validation/js/additional-methods.js" />
+      <jump line="305" column="17" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="1386" column="10" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="160" column="4" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="142" column="139" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="84" column="8" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="23" column="36" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="322" column="8" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="96" column="32" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="320" column="8" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="191" column="8" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="184" column="24" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="489" column="4" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="1255" column="0" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="1142" column="12" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="17" column="8" filename="$USER_HOME$/Projects/olxeu-pwa/packages/core/src/components/ForgotPassword/services/LocalVerificationCodeService.ts" />
+      <jump line="24" column="8" filename="$USER_HOME$/Projects/olxeu-pwa/packages/core/src/components/ForgotPassword/services/LocalVerificationCodeService.ts" />
+      <jump line="370" column="31" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/lang/ro/translation.php" />
+      <jump line="1149" column="26" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web-olxro/lang/ro/translation.php" />
+      <jump line="31" column="29" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="1" column="16" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/views/account/resend-code-modal.tt.html" />
+      <jump line="714" column="12" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="938" column="59" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="71" column="90" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="283" column="49" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="0" column="9" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/sass/components/_components.resend-code-blocked-modal.scss" />
+      <jump line="52" column="1" filename="$USER_HOME$/Projects/olxeu-pwa/packages/ui/sass/settings/_settings.global.scss" />
+      <jump line="93" column="37" filename="$USER_HOME$/Projects/olxeu-pwa/packages/ui/sass/settings/_settings.global.scss" />
+      <jump line="94" column="37" filename="$USER_HOME$/Projects/olxeu-pwa/packages/ui/sass/settings/_settings.global.scss" />
+      <jump line="0" column="42" filename="$USER_HOME$/Projects/olxeu-pwa/packages/ui/sass/settings/_settings.global.scss" />
+      <jump line="2" column="3" filename="$USER_HOME$/Projects/olxeu-pwa/packages/ui/sass/settings/_settings.global.scss" />
+      <jump line="3" column="1" filename="$USER_HOME$/Projects/olxeu-pwa/packages/ui/sass/settings/_settings.global.scss" />
+      <jump line="4" column="1" filename="$USER_HOME$/Projects/olxeu-pwa/packages/ui/sass/settings/_settings.global.scss" />
+      <jump line="336" column="12" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="0" column="1" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/sass/components/_components.newlogin.scss" />
+      <jump line="127" column="8" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/sass/components/_components.newlogin.scss" />
+      <jump line="334" column="38" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="259" column="75" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="287" column="24" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="298" column="39" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="300" column="9" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="314" column="36" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="320" column="54" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="321" column="42" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="331" column="54" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="332" column="42" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="341" column="54" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="5" column="32" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.devtools/import-translations.py" />
+      <jump line="351" column="12" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="571" column="0" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="720" column="48" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/lang/pl/translation.php" />
+      <jump line="196" column="23" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="225" column="52" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="286" column="33" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="424" column="108" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="289" column="54" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="18" column="35" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="343" column="0" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/static/js/actions/account/AccountClass.js" />
+      <jump line="280" column="38" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="417" column="108" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="431" column="52" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="432" column="15" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="507" column="52" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="132" column="29" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/ForgotPassword.php" />
+      <jump line="260" column="0" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/ForgotPassword.php" />
+      <jump line="26" column="57" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web-api/src/mobile/v1/actions/account/ForgotPassword.php" />
+      <jump line="15" column="86" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/user/UsernameObfuscator.php" />
+      <jump line="24" column="43" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-api-tests/tests/Mobile/Account/ForgotPasswordTest.php" />
+      <jump line="170" column="0" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="196" column="5" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="198" column="9" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="223" column="18" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="224" column="57" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="236" column="2" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="237" column="34" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="239" column="21" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="240" column="60" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="244" column="34" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="248" column="9" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="264" column="7" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="265" column="66" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="266" column="66" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="268" column="64" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="276" column="7" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/.gitlab-ci.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-shared/atlas-web-framework/src/services/ServiceMap.php" />
+      <jump line="18" column="6" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-shared/atlas-web-framework/src/services/ServiceMap.php" />
+      <jump line="40" column="18" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web-conversation/resources/services.php" />
+      <jump line="26" column="19" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/lib/sqs/SqsQueue.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/web/index.php" />
+      <jump line="114" column="17" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="183" column="27" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="186" column="0" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="23" column="26" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/resources/config/site/olxpl/dev/modules.json" />
+      <jump line="652" column="0" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/plugins/naspersclassifieds-regional/olxeu-atlas-web/src/actions/Account.php" />
+      <jump line="10" column="12" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/resources/config/site/olxbg/dev/modules.json" />
+      <jump line="445" column="9" filename="$USER_HOME$/Projects/olxeu-atlas-web-dist/resources/config/site/olxbg/dev/modules.json" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="i" type="4">
+        <keys>
+          <key char="34" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="+" type="4">
+        <text>ATLAS_SESSION_DOMAIN</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">LCAnLicuJHRoaXMtPnNlc3Npb25Eb21haW4=</text>
+      </register>
+      <register name="/" type="4">
+        <text>postReg</text>
+      </register>
+      <register name="0" type="4">
+        <text>ATLAS_SESSION_DOMAIN</text>
+      </register>
+      <register name="1" type="2">
+        <text>Activate `use_tokens_for_login` flag in stg bg</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="73" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text>Redirect /account/menu to /myaccount</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB1bnNldCgkX0NPT0tJRVsndXNlcl9pZCddKTsKICAgICAgICB1bnNldCgkX0NPT0tJRVsndXNlcl9pZCddKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRjb3VudCA+IDQpIHsKICAgICAgICAgICAgICAgICRuZXdSZWxpY1dyYXBwZXItPmFkZEN1c3RvbVBhcmFtKCdyZWdpc3RyYXRpb25fcmF0ZWxpbWl0ZWQnLCAkZGF0YVsndXNlcm5hbWUnXSk7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjaGFpbi0+Z2xvYmFsQ29uZGl0aW9uKGZhbHNlLCAndXNlcicsIF9fKCdpbnZhbGlkIGxvZ2luIG9yIHBhc3N3b3JkJykpOwo=</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="65535" code="86" mods="130" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgaWYgKEF0bGFzOjpjb250YWluZXIoKS0+Z2V0KCdmZWF0dXJlRmxhZy5sYXVuY2hEYXJrbHknKS0+aXNGZWF0dXJlQWN0aXZlKCdyYXRlbGltaXRfcmVnaXN0cmF0aW9uX2JydXRlZm9yY2VfaXAnKSkgewogICAgICAgICAgICAkY291bnQgPSBSZWRpc0Nvbm5lY3Rpb246OmdldCgncmVnaXN0cmF0aW9uLXJhdGVsaW1pdC0nIC4gQWN0dWFsUm91dGVyOjpnZXRDbGllbnRJUCgpKTsKICAgICAgICAgICAgaWYgKCRjb3VudCA+IDQpIHsKICAgICAgICAgICAgICAgICRjaGFpbi0+Z2xvYmFsQ29uZGl0aW9uKGZhbHNlLCAndXNlcicsIF9fKCdpbnZhbGlkIGxvZ2luIG9yIHBhc3N3b3JkJykpOwogICAgICAgICAgICAgICAgJG5ld1JlbGljV3JhcHBlci0+YWRkQ3VzdG9tUGFyYW0oJ3JlZ2lzdHJhdGlvbl9yYXRlbGltaXRlZCcsICRjaGFpbi0+Z2V0KCdlbWFpbCcpKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBSZWRpc0Nvbm5lY3Rpb246OmluY3JieWV4KCdyZWdpc3RyYXRpb24tcmF0ZWxpbWl0LScgLiBBY3R1YWxSb3V0ZXI6OmdldENsaWVudElQKCksIDEsIFJlZGlzQ29ubmVjdGlvbjo6VFlQRV9CQUNLRU5ELCBUaW1lOjpNSU5VVEUpOwogICAgICAgIH0KCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUmVnaXN0cmF0aW9uRm9ybTo6QUxJQVMsCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>postReg</last-search>
+      <last-offset />
+      <last-pattern>postReg</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>http</entry>
+        <entry>reset</entry>
+        <entry>cognito</entry>
+        <entry>post</entry>
+        <entry>Change</entry>
+        <entry>postForgotPasswordConfirm</entry>
+        <entry>pattern</entry>
+        <entry>forgotPassword</entry>
+        <entry>More</entry>
+        <entry>nps-su</entry>
+        <entry>block</entry>
+        <entry>color</entry>
+        <entry>color-gr</entry>
+        <entry>16px</entry>
+        <entry>forgotpassword</entry>
+        <entry>postForgotPassword</entry>
+        <entry encoding="base64">IHRydWU=</entry>
+        <entry>test</entry>
+        <entry>postIndex</entry>
+        <entry>postReg</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>a</entry>
+        <entry>nohl</entry>
+        <entry>w\</entry>
+        <entry>2</entry>
+        <entry>wa</entry>
+        <entry>wqa</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+</application>

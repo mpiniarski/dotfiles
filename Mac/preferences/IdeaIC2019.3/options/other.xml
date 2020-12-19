@@ -1,0 +1,71 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Projects/eu-cognito-serverless/CodeStyle.xml" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BuildView.Splitter.Proportion" value="0.18210068" />
+    <property name="ColorChooser.RecentColors" value="65-0-3-255,,,180-0-7-255,,,116-180-97-255,,,82-134-67-255,,,59-96-48-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.48809522" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.8237288" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DEVKIT_SANDBOX_HISTORY" value="C:\Users\Marcin\.IdeaIC2019.2\system\plugins-sandbox" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Kotlin Value Object" />
+    <property name="FindSplitterProportion" value="0.464" />
+    <property name="GradleSupport.showInternalTestNodes" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="terraform&#10;terrafor&#10;terrafo&#10;terr&#10;te" />
+    <property name="JUnit.Splitter.Proportion" value="0.5151899" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="Git&#10;Context&#10;Parameter info&#10;caret&#10;bookmarks" />
+    <property name="KEYMAP_IN_QUICK_LISTS" value="Branches&#10;Push&#10;Pull" />
+    <property name="LAST_INJECTED_LANGUAGE" value="yaml" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="MarketplacePluginsSearchHistory" value="code review&#10;code&#10;cod&#10;cd&#10;code generator" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SHELLCHECK.PATH" value="$APPLICATION_PLUGINS_DIR$/Shell Script/shellcheck" />
+    <property name="SettingsSearchHistory" value="Gradle&#10;python&#10;terraform&#10;Plugin&#10;gitla" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.796837" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="export.settings.path" value="$USER_HOME$/Desktop/settings.zip" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Projects/eu-cognito-serverless/infrastructure/vpc-and-cognito/modules&#10;/Users/marcin.piniarski/Projects/eu-cognito-serverless/infrastructure/vpc-and-cognito&#10;/Users/marcin.piniarski/Projects/eu-registration-serverless/scripts/generate-config/env/bin/python3.7" />
+    <property name="file.gist.reindex.count" value="9778" />
+    <property name="fileTypeChangedCounter" value="8" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ideavim.statistics.timestamp" value="1600780062526" />
+    <property name="installed.kotlin.plugin.version" value="1.3.72-release-IJ2019.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="kotlin-gradle-user-dirs" value="$USER_HOME$/.gradle" />
+    <property name="kotlin.lastUpdateCheck" value="1600681964561" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.72-release-IJ2019.3-1:2020-04-14" />
+    <property name="last.imported.location" value="$USER_HOME$/Projects/eu-cognito-serverless/lambdas" />
+    <property name="last.used.gradle.home" value="/usr/local/Cellar/gradle/6.4.1/libexec" />
+    <property name="lastTip" value="1" />
+    <property name="net.ntworld.mergeRequestIntegrationIde.ui.mergeRequest.MergeRequestCollectionFilter:60ba8af4-b6c2-11ea-8324-7dc3fec6e876" value="383" />
+    <property name="org.intellij.plugins.hcl.LAST_UPDATE" value="1601028297827" />
+    <property name="org.intellij.plugins.hcl.LAST_VERSION" value="0.7.8" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1600679940924" />
+    <property name="project.wizard.group" value="org.jetbrains.plugins.gradle.service.project.wizard.InternalGradleModuleBuilder" />
+    <property name="project.wizard.template" value="JVM | IDEA" />
+    <property name="selected.color.option.type" value="INJECTED_LANGUAGE_FRAGMENT" />
+    <property name="settings.code.style.selected.tab.Groovy" value="Spaces" />
+    <property name="settings.code.style.selected.tab.HCL-Terraform" value="Other" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

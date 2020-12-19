@@ -1,0 +1,7 @@
+ls
+xcode-select --install
+ls
+gradle
+./gradlew build
+./gradlew build
+./gradlew build

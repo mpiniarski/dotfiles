@@ -1,0 +1,178 @@
+<application>
+  <component name="VimLocalSettings">
+    <state version="5" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1584858587333">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/match.go" timestamp="1584811812054">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/hackcrisis-matching/frontend/src/pages/GiverWaitingForMatch.tsx" timestamp="1584858661653">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/hackcrisis-matching/frontend/src/pages/Home.tsx" timestamp="1584826320822">
+        <mark key="[" line="75" column="30" />
+        <mark key="]" line="75" column="30" />
+        <mark key="." line="75" column="30" />
+        <mark key="^" line="75" column="30" />
+      </file>
+      <file name="/store.go" timestamp="1584812302183">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/hackcrisis-matching/serverless.yml" timestamp="1584826734190">
+        <mark key="[" line="257" column="4" />
+        <mark key="]" line="257" column="20" />
+        <mark key="." line="200" column="35" />
+        <mark key="^" line="200" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/hackcrisis-matching/frontend/src/components/receiver/FirstReceiverForm.tsx" timestamp="1584828150515">
+        <mark key="[" line="88" column="48" />
+        <mark key="]" line="88" column="47" />
+        <mark key="^" line="88" column="47" />
+        <mark key="." line="88" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/hackcrisis-matching/frontend/src/components/receiver/SecondReceiverForm.tsx" timestamp="1584827435775">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+      </file>
+      <file name="/GiverWaitingForMatch.tsx" timestamp="1584858653518">
+        <mark key="[" line="98" column="18" />
+        <mark key="]" line="98" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/hackcrisis-matching/internal/matching/match.go" timestamp="1584811823616">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/hackcrisis-matching/frontend/src/App.tsx" timestamp="1584826280810">
+        <mark key="[" line="67" column="24" />
+        <mark key="]" line="67" column="27" />
+        <mark key="^" line="67" column="27" />
+        <mark key="." line="67" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/hackcrisis-matching/frontend/src/pages/Receiver.tsx" timestamp="1584828142508">
+        <mark key="[" line="95" column="51" />
+        <mark key="]" line="95" column="51" />
+        <mark key="." line="95" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/hackcrisis-matching/frontend/src/components/giver/SecondGiverForm.tsx" timestamp="1584827430634">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/hackcrisis-matching/frontend/src/pages/ReceiverWaitingForMatch.tsx" timestamp="1584858701996">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="85" column="74" />
+        <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/hackcrisis-matching/frontend/src/pages/Giver.tsx" timestamp="1584827941609">
+        <mark key="[" line="95" column="13" />
+        <mark key="]" line="95" column="13" />
+        <mark key="." line="95" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/hackcrisis-matching/frontend/src/components/giver/FirstGiverForm.tsx" timestamp="1584827002487">
+        <mark key="[" line="83" column="15" />
+        <mark key="]" line="83" column="30" />
+        <mark key="." line="83" column="15" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="28" column="6" filename="$USER_HOME$/Projects/hackcrisis-matching/handler/match/match.go" />
+      <jump line="62" column="11" filename="$USER_HOME$/Projects/hackcrisis-matching/handler/match/match.go" />
+      <jump line="65" column="4" filename="$USER_HOME$/Projects/hackcrisis-matching/handler/match/match.go" />
+      <jump line="78" column="47" filename="$USER_HOME$/Projects/hackcrisis-matching/handler/match/match.go" />
+      <jump line="16" column="50" filename="$USER_HOME$/Projects/hackcrisis-matching/internal/matching/categories.go" />
+      <jump line="88" column="14" filename="$USER_HOME$/Projects/hackcrisis-matching/handler/match/match.go" />
+      <jump line="51" column="34" filename="$USER_HOME$/Projects/hackcrisis-matching/handler/matches/matches.go" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/hackcrisis-matching/handler/matches/matches.go" />
+      <jump line="54" column="0" filename="$USER_HOME$/Projects/hackcrisis-matching/handler/matches/matches.go" />
+      <jump line="67" column="11" filename="$USER_HOME$/Projects/hackcrisis-matching/handler/matches/matches.go" />
+      <jump line="78" column="0" filename="$USER_HOME$/Projects/hackcrisis-matching/handler/matches/matches.go" />
+      <jump line="29" column="23" filename="$USER_HOME$/Projects/hackcrisis-matching/handler/give/give.go" />
+      <jump line="81" column="0" filename="$USER_HOME$/Projects/hackcrisis-matching/internal/matching/store.go" />
+      <jump line="182" column="0" filename="$USER_HOME$/Projects/hackcrisis-matching/internal/matching/store.go" />
+      <jump line="96" column="0" filename="$USER_HOME$/Projects/hackcrisis-matching/internal/matching/store.go" />
+      <jump line="181" column="0" filename="$USER_HOME$/Projects/hackcrisis-matching/internal/matching/store.go" />
+      <jump line="89" column="76" filename="$USER_HOME$/Projects/hackcrisis-matching/internal/matching/store.go" />
+      <jump line="212" column="0" filename="$USER_HOME$/Projects/hackcrisis-matching/internal/matching/store.go" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="-" type="4">
+        <text>C</text>
+      </register>
+      <register name="/" type="4">
+        <text>GIVES</text>
+      </register>
+      <register name="0" type="4">
+        <text>{user.name}</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb250YWN0VGV4dD17YFlvdSBjYW4gcmVhY2ggdGhlbSBvbiAke2NvbnRhY3R9YH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbmZvVGV4dD17YCR7bmFtZX0gd2lsbCBoZWxwIHlvdSB3aXRoICBpbiB0aGUgbmV4dCAzMCBtaW51dGVzYH0K</text>
+      </register>
+      <register name="4" type="4">
+        <text>${parseCategories(
+          categories
+        )}</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aXRsZT0iWW91IGhhdmUgYmVlbiBtYXRjaGVkIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBUaGFuayB5b3UgZm9yIGNhcmluZyEK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBXZSB3aWxsIGxldCB5b3Uga25vdyB3aGVuIHdlIGZpbmQgYSBtYXRjaCBmb3IgeW91OyB0aGUgc2VhcmNoIGlzIG9uLgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz53cWE=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>GIVES</last-search>
+      <last-offset />
+      <last-pattern>GIVES</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>GIVES</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wa</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz53cWE=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+</application>

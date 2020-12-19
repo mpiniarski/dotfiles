@@ -1,0 +1,37 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Projects">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1VtK5nB3nAYki9MIkxsdMX9PpCw">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-193.6494.61" />
+              <option name="buildTimestamp" value="1583246813425" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1584697860753" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/hackcrisis-matching">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1ZO6e5dHMdUsvqIAqaJWheWfZaz">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-193.6494.61" />
+              <option name="buildTimestamp" value="1583246793548" />
+              <frame x="59" y="27" width="1680" height="1027" extendedState="6" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1586936321128" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/hackcrisis-matching" />
+        <option value="$USER_HOME$/Projects" />
+      </list>
+    </option>
+  </component>
+</application>

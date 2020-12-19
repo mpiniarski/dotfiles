@@ -1,0 +1,9 @@
+<templateSet group="html/xml">
+  <template name="Tra" value="&lt;Translate content=&quot;$KEY$&quot; /&gt;" description="Translate" toReformat="true" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

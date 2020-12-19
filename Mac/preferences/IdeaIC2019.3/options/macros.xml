@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="ctrl+a">
+      <typing text-keycode="86:0">v</typing>
+      <action id="$SelectAll" />
+    </macro>
+  </component>
+</application>

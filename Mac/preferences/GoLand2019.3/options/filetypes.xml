@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="ErrorPage,js" type="PLAIN_TEXT" />
+      <mapping pattern=".ember-cli" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="vars" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="bck" type="PLAIN_TEXT" />
+      <mapping pattern="singleCitation" type="XML" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+    </extensionMap>
+  </component>
+</application>
